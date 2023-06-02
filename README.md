@@ -4,4 +4,5 @@ A python (flask) application using rest-api for forecasting weather by taking in
 The technologies to be used - 
 1. Python Flask framework
 2. Python scripts
-3. Open Rest-Api of a weather forecasting page
+3. Open Rest-Api from a weather forecaster
+
